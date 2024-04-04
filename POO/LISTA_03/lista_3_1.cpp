@@ -48,7 +48,7 @@ int main (){
   cout<< "Peso:" << veiculo.getPeso() << endl;
   cout<< "Marca:"<< veiculo.GetMarca() << endl;
   cout<< "Cor:" << veiculo.getCor() << endl;
-veiculo.setAno(5);
+veiculo.setAno(2005);
   cout<< "Exibindo informações sobre o veiculo após alteações" << veiculo.getAno()<<endl;
   cout<< "Ano:"<< veiculo.getAno() << endl;
   
